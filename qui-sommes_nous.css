@@ -1,0 +1,23 @@
+body{
+    h1{color:navy;
+       text-align: center;}
+           
+
+    .e1{float:left ;
+        margin-bottom:5px;
+        margin: top 5px;
+        width: 30%;
+        height: 200px;
+        border: 1px solid navy;
+        overflow:hidden ;
+        
+        
+    }
+    .e2{float:right;
+        margin-bottom: 5px;
+        width:69% ;
+        height:200px ;
+        border:1px solid white;
+        overflow:hidden ;
+
+    }
